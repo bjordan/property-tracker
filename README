@@ -1,0 +1,1 @@
+Property data tracker. Crawls daft.ie and myhome.ie, scraping data for a specific set of criteria and persisting to Elasticsearch.
